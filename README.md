@@ -1,22 +1,66 @@
-### Hi there 👋, I am Zihadul Talukder
-#### I am a web developer
-![I am a web developer](https://github.com/zihadulislam99/zihadulislam99/blob/main/zihadulislam99.png?raw=true)
+# 👋 Hi, I'm Zihadul Islam
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+![Profile Views](https://komarev.com/ghpvc/?username=zihadulislam99\&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/zihadulislam99?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/zihadulislam99?style=flat-square)
 
-Skills: HTML / CSS / JS
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square\&logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![OS](https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightgrey?style=flat-square)
 
-- 🔭 I’m currently working on my own website 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about web developer 
+---
 
+## 🚀 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zihadulislam99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zihadulislam9900/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zihadulislam9900)  
+I am a dedicated **Python developer** with a strong focus on **Computer Vision, AI systems, and automation**. I enjoy building practical, real‑world solutions using **OpenCV**, machine learning techniques, and clean, maintainable code. I believe in continuous learning and open‑source collaboration.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zihadulislam99&show_icons=true)  
+## 🧠 Technical Skills
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=zihadulislam99)  
+* **Languages:** Python
+* **Computer Vision:** OpenCV, Haar Cascade, LBPH Face Recognition
+* **AI / ML:** Image Processing, Face Detection & Recognition
+* **Development Tools:** Git, GitHub, VS Code
+* **Operating Systems:** Windows, Linux (basic)
 
-![Profile views](https://gpvc.arturio.dev/zihadulislam99)  
+---
+
+## 📌 Featured Projects
+
+### 🔹 Face Recognizer System
+
+A professional real‑time face detection and recognition system built with **Python and OpenCV**, using Haar Cascade for detection and LBPH for recognition. Suitable for security, attendance, and research purposes.
+
+### 🔹 Face Dataset Generator
+
+An automated webcam‑based system to collect and store face image datasets for machine learning training.
+
+---
+
+## 📈 GitHub Statistics
+
+![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihadulislam99\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zihadulislam99\&layout=compact)
+
+---
+
+## 🤝 Open Source & Contributions
+
+I value clean code, documentation, and collaborative development. Contributions, feedback, and discussions are always welcome.
+
+* Please read **CONTRIBUTING.md** before submitting changes
+* Follow the **Code of Conduct**
+
+---
+
+## 📫 Contact
+
+* GitHub: [https://github.com/zihadulislam99](https://github.com/zihadulislam99)
+* Email: *(add your email if you want)*
+
+---
+
+⭐ *If you find my projects useful, consider giving them a star!*
