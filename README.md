@@ -56,14 +56,6 @@ I am open to **hiring or collaborating** with motivated people:
 
 ---
 
-## 📈 GitHub Statistics
-
-![Zihad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihadulislam99\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zihadulislam99\&layout=compact)
-
----
-
 ## 📫 Contact
 
 * GitHub: [https://github.com/zihadulislam99](https://github.com/zihadulislam99)
