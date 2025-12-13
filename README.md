@@ -13,17 +13,19 @@
 
 ## 🚀 About Me
 
-I am a dedicated **Python developer** with a strong focus on **Computer Vision, AI systems, and automation**. I enjoy building practical, real‑world solutions using **OpenCV**, machine learning techniques, and clean, maintainable code. I believe in continuous learning and open‑source collaboration.
+I am a **project owner and AI/Computer Vision enthusiast**. I build real-world projects using **Python, OpenCV, and machine learning** and am looking for talented developers, designers, and collaborators to **join my projects or teams**.
+
+I focus on creating practical solutions, mentoring contributors, and building projects that can be used in real applications.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Skills & Expertise
 
-* **Languages:** Python
+* **Programming:** Python, JavaScript (basic)
 * **Computer Vision:** OpenCV, Haar Cascade, LBPH Face Recognition
 * **AI / ML:** Image Processing, Face Detection & Recognition
-* **Development Tools:** Git, GitHub, VS Code
-* **Operating Systems:** Windows, Linux (basic)
+* **Project Management:** Team collaboration, mentorship, Git & GitHub
+* **Tools & Platforms:** VS Code, Windows, Linux
 
 ---
 
@@ -31,11 +33,26 @@ I am a dedicated **Python developer** with a strong focus on **Computer Vision, 
 
 ### 🔹 Face Recognizer System
 
-A professional real‑time face detection and recognition system built with **Python and OpenCV**, using Haar Cascade for detection and LBPH for recognition. Suitable for security, attendance, and research purposes.
+Real-time face detection and recognition system using **Python + OpenCV**, suitable for security, attendance, and research applications.
 
 ### 🔹 Face Dataset Generator
 
-An automated webcam‑based system to collect and store face image datasets for machine learning training.
+Automated webcam-based system for collecting and preparing image datasets for machine learning.
+
+*(More projects coming soon…)*
+
+---
+
+## 🤝 Collaboration & Hiring
+
+I am open to **hiring or collaborating** with motivated people:
+
+* Python developers
+* AI/ML engineers
+* Computer vision enthusiasts
+* Frontend/backend contributors
+
+**If you are interested, reach out via GitHub or email.**
 
 ---
 
@@ -47,20 +64,11 @@ An automated webcam‑based system to collect and store face image datasets for 
 
 ---
 
-## 🤝 Open Source & Contributions
-
-I value clean code, documentation, and collaborative development. Contributions, feedback, and discussions are always welcome.
-
-* Please read **CONTRIBUTING.md** before submitting changes
-* Follow the **Code of Conduct**
-
----
-
 ## 📫 Contact
 
 * GitHub: [https://github.com/zihadulislam99](https://github.com/zihadulislam99)
-* Email: *(add your email if you want)*
+* Email: [*(email here)*]
 
 ---
 
-⭐ *If you find my projects useful, consider giving them a star!*
+⭐ *If you like my projects or want to collaborate, consider starring the repositories!*
