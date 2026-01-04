@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=zihadulislam99\&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/zihadulislam99?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/zihadulislam99?style=flat-square)
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square\&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat-square)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
@@ -26,33 +25,6 @@ I focus on creating practical solutions, mentoring contributors, and building pr
 * **AI / ML:** Image Processing, Face Detection & Recognition
 * **Project Management:** Team collaboration, mentorship, Git & GitHub
 * **Tools & Platforms:** VS Code, Windows, Linux
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Face Recognizer System
-
-Real-time face detection and recognition system using **Python + OpenCV**, suitable for security, attendance, and research applications.
-
-### 🔹 Face Dataset Generator
-
-Automated webcam-based system for collecting and preparing image datasets for machine learning.
-
-*(More projects coming soon…)*
-
----
-
-## 🤝 Collaboration & Hiring
-
-I am open to **hiring or collaborating** with motivated people:
-
-* Python developers
-* AI/ML engineers
-* Computer vision enthusiasts
-* Frontend/backend contributors
-
-**If you are interested, reach out via GitHub or email.**
 
 ---
 
