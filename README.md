@@ -20,11 +20,11 @@ I focus on creating practical solutions, mentoring contributors, and building pr
 
 ## 🧠 Skills & Expertise
 
-* **Programming:** Python, JavaScript (basic)
+* **Programming:** Python, React
 * **Computer Vision:** OpenCV, Haar Cascade, LBPH Face Recognition
 * **AI / ML:** Image Processing, Face Detection & Recognition
 * **Project Management:** Team collaboration, mentorship, Git & GitHub
-* **Tools & Platforms:** VS Code, Windows, Linux
+* **Tools & Platforms:** VS Code, Windows, Linux, IOS
 
 ---
 
